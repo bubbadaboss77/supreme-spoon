@@ -7,3 +7,5 @@ mistune
 psycopg2
 Werkzeug
 gunicorn
+wtforms
+flask_security
